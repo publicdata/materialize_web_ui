@@ -5,8 +5,11 @@
       src="https://user-images.githubusercontent.com/18376481/78156268-78aed080-7436-11ea-9da7-57d83ec5ec8a.png"
       alt="logos of Vue, Netlify and Fauna"
     />
-    <h1 style="text-align:center">Vue - Netlify - Fauna</h1>
-    <h2>A serverless stack with authentication ready to go!</h2>
+    <h1 style="text-align:center">Peacewater information tree tool</h1>
+    <h2>ecocommunity@protonmail.com</h2>
+    <h2><a href=https://sharaj2.sg-host.com/forum>Peacewater project planning forum</A></h2>
+    <h2><a href=https://scdhub.org/forum>Searchable Database</A></h2>
+
 
     <div>
       <p>
