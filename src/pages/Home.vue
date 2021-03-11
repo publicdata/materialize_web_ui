@@ -7,23 +7,21 @@
     />
     <h1 style="text-align:center">Peacewater information tree tool</h1>
     <h2>ecocommunity@protonmail.com</h2>
-    <h2><a href=https://sharaj2.sg-host.com/forum>Peacewater project planning forum</A></h2>
-    <h2><a href=https://scdhub.org/forum>Searchable Database</A></h2>
+    <h2><a href=https://sharaj2.sg-host.com/forum>Peacewater project planning forum</a></h2>
+    <h2><a href=https://scdhub.org/forum>Searchable Database</a></h2>
 
 
     <div>
       <p>
-        This is a demo app to show how you can use cool technologies like Fauna
-        and Netlify to build a CRUD application completely serverless and host
-        for free! 😎
+       Using Faunadb and Netlify for free 😎
       </p>
 
       <p>
-        If you want to see how this is all glued together check out the
+        
         <a href="https://github.com/chiubaca/vue-netlify-fauna-starter-kit"
           >source code</a
         >
-        . Happy hacking!
+ 
       </p>
     </div>
     <LoginSignup v-if="currentUser === null" />
