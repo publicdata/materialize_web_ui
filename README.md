@@ -1,5 +1,5 @@
  [![Netlify Status](https://api.netlify.com/api/v1/badges/4ae54114-0254-4a6d-8c69-50babf908578/deploy-status)](https://app.netlify.com/sites/vue-netlify-fauna/deploys)
- ![](https://user-images.githubusercontent.com/18376481/78156268-78aed080-7436-11ea-9da7-57d83ec5ec8a.png)
+ ![](https://avatars.githubusercontent.com/u/72341945?s=400&u=88c5890a3732870a4e2fbc8b6fb420910197cdf3&v=4)
  # Vue - Netlify - Fauna
  ## A serverless stack with authentication ready to go! 
 
