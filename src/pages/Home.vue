@@ -7,9 +7,10 @@
     />
     <h1 style="text-align:center">Peacewater information tree tool</h1>
     <h2>ecocommunity@protonmail.com</h2>
-    <h2><a href=https://sharaj2.sg-host.com/forum>Peacewater project planning forum</a></h2>
-    <h2><a href=https://scdhub.org/forum>Searchable Database</a></h2>
-
+    <ul>
+      <li><a href=https://sharaj2.sg-host.com/forum>Peacewater project planning forum</a>
+      <li><a href=https://scdhub.org/forum>Searchable Database</a>
+    </ul>
 
     <div>
       <p>
