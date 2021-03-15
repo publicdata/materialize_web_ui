@@ -1,9 +1,14 @@
  [![Netlify Status](https://api.netlify.com/api/v1/badges/4ae54114-0254-4a6d-8c69-50babf908578/deploy-status)](https://app.netlify.com/sites/vue-netlify-fauna/deploys)
- ![](https://avatars.githubusercontent.com/u/72341945?s=400&u=88c5890a3732870a4e2fbc8b6fb420910197cdf3&v=4)
+
  # Vue - Netlify - Fauna
  ## A serverless stack with authentication ready to go! 
 
 This serverless stack uses [Vue](https://vuejs.org/) for the front-end, [Netlify](https://www.netlify.com/) for APIs (via Netlify Functions) and [Fauna](https://www.netlify.com/) for persistent data storage. 
+
+
+This is being used as an experimental starting point for MAterialize UI, which is a gallery maangement tool for NFT art objects, which are displayed via vuejs based gallery Progressive Web App ( PWA ).
+
+
 
 At the time of publishing this, Netlify and Fauna offer generous free tiers which means anyone can get started, deploy and host this completely free.
 
